@@ -1,0 +1,17 @@
+[
+  "tests/test_core.py::test_above_attendance_threshold",
+  "tests/test_core.py::test_aliases_and_numeric_conversion",
+  "tests/test_core.py::test_data_quality_detects_duplicate_and_out_of_range",
+  "tests/test_core.py::test_department_average_and_support_intents_are_not_captured_by_generic_attendance",
+  "tests/test_core.py::test_dynamic_attendance_threshold",
+  "tests/test_core.py::test_exam_absence_is_explicit",
+  "tests/test_core.py::test_missing_column_is_explained",
+  "tests/test_core.py::test_top_n",
+  "tests/test_core.py::test_unsafe_sql_rejected[DELETE FROM students]",
+  "tests/test_core.py::test_unsafe_sql_rejected[DROP TABLE students]",
+  "tests/test_core.py::test_unsafe_sql_rejected[SELECT * FROM other_table]",
+  "tests/test_core.py::test_unsafe_sql_rejected[SELECT * FROM sqlite_master]",
+  "tests/test_core.py::test_unsafe_sql_rejected[SELECT * FROM students; -- comment]",
+  "tests/test_core.py::test_unsafe_sql_rejected[SELECT * FROM students; DELETE FROM students]",
+  "tests/test_core.py::test_unsupported_question_does_not_fallback"
+]

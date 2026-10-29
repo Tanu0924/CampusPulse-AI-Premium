@@ -1,0 +1,25 @@
+student_id,name,department,course,semester,attendance_pct,overall_marks,exam_status,quiz_submitted,quiz_marks,quiz_total_marks,gpa,failed_courses
+STU001,Aarav Sharma,Computer Science,Data Science,6,96,92,Present,Yes,20,20,9.4,0
+STU002,Diya Patel,Computer Science,Database Systems,6,88,89,Present,Yes,18,20,8.9,0
+STU003,Kabir Verma,Computer Science,Data Science,6,54,48,Absent,No,,20,5.9,2
+STU004,Ananya Singh,Computer Science,Database Systems,6,93,95,Present,Yes,20,20,9.7,0
+STU005,Ishaan Gupta,Computer Science,Data Science,6,62,71,Present,No,,20,7.1,1
+STU006,Meera Joshi,Information Technology,Networks,6,98,87,Present,Yes,19,20,8.8,0
+STU007,Rohan Mehta,Information Technology,Networks,6,43,39,Absent,No,,20,4.8,3
+STU008,Sana Khan,Information Technology,Database Systems,6,91,84,Present,Yes,20,20,8.5,0
+STU009,Vivaan Rao,Information Technology,Networks,6,76,78,Present,Yes,16,20,7.9,0
+STU010,Ira Nair,Electronics,Embedded Systems,6,59,64,Present,Yes,17,20,6.8,1
+STU011,Aditya Jain,Electronics,Embedded Systems,6,85,81,Present,Yes,20,20,8.3,0
+STU012,Kiara Das,Electronics,Embedded Systems,6,72,91,Present,No,,20,9.1,0
+STU013,Arjun Sethi,Electronics,Embedded Systems,6,35,44,Absent,No,,20,5.1,2
+STU014,Myra Kapoor,Computer Science,Data Science,6,94,97,Present,Yes,20,20,9.8,0
+STU015,Reyansh Bose,Information Technology,Networks,6,67,58,Present,Yes,12,20,6.0,1
+STU016,Aditi Kulkarni,Electronics,Database Systems,6,89,86,Present,Yes,19,20,8.7,0
+STU017,Dev Malhotra,Computer Science,Data Science,6,49,52,Present,No,,20,5.6,2
+STU018,Pari Chawla,Information Technology,Database Systems,6,82,90,Present,Yes,20,20,9.0,0
+STU019,Neil Fernandes,Electronics,Embedded Systems,6,97,73,Present,Yes,15,20,7.4,0
+STU020,Tara Bansal,Computer Science,Database Systems,6,57,68,Absent,No,,20,6.7,1
+STU021,Nisha Rao,Information Technology,Networks,6,77,81,Present,Yes,18,20,8.0,0
+STU022,Om Prakash,Electronics,Embedded Systems,6,69,62,Present,Yes,16,20,6.9,1
+STU023,Simran Kaur,Computer Science,Data Science,6,83,76,Present,Yes,17,20,7.8,0
+STU024,Arnav Shah,Information Technology,Database Systems,6,58,47,Absent,No,,20,5.4,2
